@@ -1,1 +1,2 @@
-# bot-project
+# gpt
+Strawberry GPT bot
